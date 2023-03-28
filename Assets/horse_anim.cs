@@ -26,9 +26,13 @@ public class horse_anim : MonoBehaviour
         {
             if (Boardscript.markers == 0)
             {
-                if(Boardscript.score != 64)
+
+                if (Boardscript.visited != 64)
                 {
-                    anim_control.SetBool("lost", true);
+                    if (Boardscript.mode != 1)
+                    {
+                        anim_control.SetBool("lost", true);
+                    }
                 }
                 else
                 {

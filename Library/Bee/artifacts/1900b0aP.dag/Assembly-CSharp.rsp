@@ -305,6 +305,7 @@
 "Assets/board.cs"
 "Assets/cameraface.cs"
 "Assets/horse_anim.cs"
+"Assets/menu.cs"
 "Assets/score_update.cs"
 "Assets/target_appear.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"

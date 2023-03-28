@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.SceneManagement;
 public class board : MonoBehaviour
 {
     // Start is called before the first frame update
@@ -20,7 +20,8 @@ public class board : MonoBehaviour
     public bool move;
     public GameObject falling;
     public bool rotate;
-
+    public int visited;
+    public int mode;
     Quaternion target;
     void Start()
     {
@@ -30,26 +31,37 @@ public class board : MonoBehaviour
         newy = 0;
         tilesize = 3;
         score = 1;
+        visited = 1;
+        mode = PlayerPrefs.GetInt("mode");
         GameObject tile;
         int x;
         int y;
         string vysledek;
-        for (var i = 0; i < 64; i++)
+        if (mode != 3)
         {
-            x = i / 8;
-            y = i % 8;
-            if ((i - x) % 2 == 0)
+            for (var i = 0; i < 64; i++)
             {
-                tile = Instantiate(white, new Vector3(x * tilesize, 0, y * tilesize), Quaternion.identity) as GameObject;
-                
+                x = i / 8;
+                y = i % 8;
+                if ((i - x) % 2 == 0)
+                {
+                    tile = Instantiate(white, new Vector3(x * tilesize, 0, y * tilesize), Quaternion.identity) as GameObject;
+
+                }
+                else
+                {
+                    tile = Instantiate(black, new Vector3(x * tilesize, 0, y * tilesize), Quaternion.identity) as GameObject;
+
+                }
+                vysledek = x.ToString() + y.ToString();
+                tile.name = vysledek;
             }
-            else
+            if (mode == 2)
             {
-                tile = Instantiate(black, new Vector3(x * tilesize, 0, y * tilesize), Quaternion.identity) as GameObject;
-                
-            }
-            vysledek = x.ToString() + y.ToString();
-            tile.name = vysledek;
+                x = Random.Range(0,8);
+                y = Random.Range(0,8);
+                player.transform.position = new Vector3(x * tilesize, player.transform.position.y, y * tilesize);
+             }
 
         }
         ShowMarkers();
@@ -108,6 +120,7 @@ public class board : MonoBehaviour
                     Destroy(tile);
                 }
                 score++;
+                visited++;
 
 
             }
@@ -145,6 +158,10 @@ public class board : MonoBehaviour
                 timer = 0;
                 ShowMarkers();
             }
+        }
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            SceneManager.LoadScene("Menu");
         }
 
     }
