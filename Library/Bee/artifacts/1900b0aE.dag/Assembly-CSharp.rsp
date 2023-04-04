@@ -349,6 +349,7 @@
 "Assets/board.cs"
 "Assets/cameraface.cs"
 "Assets/horse_anim.cs"
+"Assets/lives_update.cs"
 "Assets/menu.cs"
 "Assets/score_update.cs"
 "Assets/target_appear.cs"

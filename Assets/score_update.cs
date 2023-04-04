@@ -18,6 +18,6 @@ public class score_update : MonoBehaviour
     void Update()
     {
         Boardscript = main_object.GetComponent<board>();
-        text.SetText("{0}",Boardscript.score);
+        text.SetText("Score: {0}",Boardscript.score);
     }
 }
