@@ -24,7 +24,7 @@ public class board : MonoBehaviour
 
     public int mode;
     bool fail = false;
-    public string zivoty = "";
+    public int zivoty = 0;
     Quaternion target;
     void Start()
     {
@@ -44,7 +44,7 @@ public class board : MonoBehaviour
         {
             if (mode==1)
             {
-                zivoty = "3";
+                zivoty = PlayerPrefs.GetInt("lives");
             }
             for (var i = 0; i < 64; i++)
             {
@@ -123,9 +123,9 @@ public class board : MonoBehaviour
         }
         if (markers == 0 && mode == 1)
         {
-            if (zivoty != "0")
+            if (zivoty != 0 && score!=64)
             {
-                zivoty = (int.Parse(zivoty) - 1).ToString();
+                zivoty = (zivoty - 1);
                 fail = true;
                 for (int i = 0; i < 8; i++)
                 {
@@ -133,7 +133,7 @@ public class board : MonoBehaviour
                     tile = GameObject.Find(jmeno);
                     if (tile != null)
                     {
-                        marker = Instantiate(green, new Vector3(moznosti[i, 0] * tilesize, 0, moznosti[i, 1] * tilesize), Quaternion.identity) as GameObject;
+                        marker = Instantiate(green, new Vector3(moznosti[i, 0] * tilesize, 0.3f, moznosti[i, 1] * tilesize), Quaternion.identity) as GameObject;
                         marker.name = "G" + jmeno;
                         markerarray[i] = "G" + jmeno;
                         markers++;

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine.SceneManagement;
 using UnityEngine;
 using UnityEngine.UI;
+using TMPro;
 public class menu : MonoBehaviour
 {
     // Start is called before the first frame update
@@ -10,7 +11,7 @@ public class menu : MonoBehaviour
     public Button Standard;
     public Button Random;
     public Button Impossible;
-
+    public TMP_InputField input1;
     void Start()
     {
         Button btn_easy = Easy.GetComponent<Button>();
@@ -37,6 +38,7 @@ public class menu : MonoBehaviour
     void EasyClick()
     {
         PlayerPrefs.SetInt("mode", 1);
+        PlayerPrefs.SetInt("lives", int.Parse(input1.text));
         SceneManager.LoadScene("Hra");
     }
     void RandomClick()
