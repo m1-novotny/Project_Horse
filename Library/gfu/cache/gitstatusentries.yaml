@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2023-04-11T12:57:26.947+02:00
-  initializedAtString: 2023-04-11T12:57:26.947+02:00
+  lastUpdatedAtString: 2023-05-08T19:44:05.568+02:00
+  initializedAtString: 2023-05-08T19:41:00.602+02:00
   entries:
   - path: Assets\board.cs
     fullPath: C:\Users\matej\My project\Assets\board.cs
@@ -22,9 +22,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\menu.cs
-    fullPath: C:\Users\matej\My project\Assets\menu.cs
-    projectPath: Assets\menu.cs
+  - path: Assets\Scenes\Hra.unity
+    fullPath: C:\Users\matej\My project\Assets\Scenes\Hra.unity
+    projectPath: Assets\Scenes\Hra.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -34,479 +34,144 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\target_appear.cs
-    fullPath: C:\Users\matej\My project\Assets\target_appear.cs
-    projectPath: Assets\target_appear.cs
+  - path: Assets\sounds.meta
+    fullPath: C:\Users\matej\My project\Assets\sounds.meta
+    projectPath: Assets\sounds.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\target_appear.cs.meta
-    fullPath: C:\Users\matej\My project\Assets\target_appear.cs.meta
-    projectPath: Assets\target_appear.cs.meta
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\sounds\thud.mp3
+    fullPath: C:\Users\matej\My project\Assets\sounds\thud.mp3
+    projectPath: Assets\sounds\thud.mp3
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
-      SDF.asset
-    fullPath: C:\Users\matej\My project\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
-      & Materials\Anton SDF.asset
-    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
-      SDF.asset
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\sounds\thud.mp3.meta
+    fullPath: C:\Users\matej\My project\Assets\sounds\thud.mp3.meta
+    projectPath: Assets\sounds\thud.mp3.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
-      SDF.asset
-    fullPath: C:\Users\matej\My project\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
-      & Materials\Bangers SDF.asset
-    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
-      SDF.asset
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\sounds\win.mp3
+    fullPath: C:\Users\matej\My project\Assets\sounds\win.mp3
+    projectPath: Assets\sounds\win.mp3
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Electronic
-      Highway Sign SDF.asset
-    fullPath: C:\Users\matej\My project\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
-      & Materials\Electronic Highway Sign SDF.asset
-    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Electronic
-      Highway Sign SDF.asset
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\sounds\win.mp3.meta
+    fullPath: C:\Users\matej\My project\Assets\sounds\win.mp3.meta
+    projectPath: Assets\sounds\win.mp3.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\win_message.cs.meta
+    fullPath: C:\Users\matej\My project\Assets\win_message.cs.meta
+    projectPath: Assets\win_message.cs.meta
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Oswald
-      Bold SDF.asset
-    fullPath: C:\Users\matej\My project\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
-      & Materials\Oswald Bold SDF.asset
-    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Oswald
-      Bold SDF.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
-      SDF.asset
-    fullPath: C:\Users\matej\My project\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
-      & Materials\Roboto-Bold SDF.asset
-    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
-      SDF.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Fallback.asset
-    fullPath: C:\Users\matej\My project\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
-      SDF - Fallback.asset
-    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
-      - Fallback.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: build\My project_Data\globalgamemanagers
-    fullPath: C:\Users\matej\My project\build\My project_Data\globalgamemanagers
-    projectPath: build\My project_Data\globalgamemanagers
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: build\My project_Data\globalgamemanagers.assets
-    fullPath: C:\Users\matej\My project\build\My project_Data\globalgamemanagers.assets
-    projectPath: build\My project_Data\globalgamemanagers.assets
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: build\My project_Data\level0
-    fullPath: C:\Users\matej\My project\build\My project_Data\level0
-    projectPath: build\My project_Data\level0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: build\My project_Data\level1
-    fullPath: C:\Users\matej\My project\build\My project_Data\level1
-    projectPath: build\My project_Data\level1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: build\My project_Data\Managed\Assembly-CSharp.dll
-    fullPath: C:\Users\matej\My project\build\My project_Data\Managed\Assembly-CSharp.dll
-    projectPath: build\My project_Data\Managed\Assembly-CSharp.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: build\My project_Data\resources.assets
-    fullPath: C:\Users\matej\My project\build\My project_Data\resources.assets
-    projectPath: build\My project_Data\resources.assets
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: build\My project_Data\sharedassets0.assets
-    fullPath: C:\Users\matej\My project\build\My project_Data\sharedassets0.assets
-    projectPath: build\My project_Data\sharedassets0.assets
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: build\My project_Data\sharedassets0.assets.resS
-    fullPath: C:\Users\matej\My project\build\My project_Data\sharedassets0.assets.resS
-    projectPath: build\My project_Data\sharedassets0.assets.resS
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: build\My project_Data\sharedassets1.assets
-    fullPath: C:\Users\matej\My project\build\My project_Data\sharedassets1.assets
-    projectPath: build\My project_Data\sharedassets1.assets
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: build\My project_Data\sharedassets1.assets.resS
-    fullPath: C:\Users\matej\My project\build\My project_Data\sharedassets1.assets.resS
-    projectPath: build\My project_Data\sharedassets1.assets.resS
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Library\ArtifactDB
     fullPath: C:\Users\matej\My project\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Artifacts\02\02ad7e8e7f08020540e872ed47216ca1
-    fullPath: C:\Users\matej\My project\Library\Artifacts\02\02ad7e8e7f08020540e872ed47216ca1
-    projectPath: Library\Artifacts\02\02ad7e8e7f08020540e872ed47216ca1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\05\0539f044e52f69d77bd42a1a9e9f5e9d
-    fullPath: C:\Users\matej\My project\Library\Artifacts\05\0539f044e52f69d77bd42a1a9e9f5e9d
-    projectPath: Library\Artifacts\05\0539f044e52f69d77bd42a1a9e9f5e9d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\07\07b69179175cdeec248583139ce4fce7
-    fullPath: C:\Users\matej\My project\Library\Artifacts\07\07b69179175cdeec248583139ce4fce7
-    projectPath: Library\Artifacts\07\07b69179175cdeec248583139ce4fce7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Library\Artifacts\10\10d2e643cf7f4a6fb79c0bc434c137af
     fullPath: C:\Users\matej\My project\Library\Artifacts\10\10d2e643cf7f4a6fb79c0bc434c137af
     projectPath: Library\Artifacts\10\10d2e643cf7f4a6fb79c0bc434c137af
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\Artifacts\11\11bef843cddbec004945bb1c2b795ed9
     fullPath: C:\Users\matej\My project\Library\Artifacts\11\11bef843cddbec004945bb1c2b795ed9
     projectPath: Library\Artifacts\11\11bef843cddbec004945bb1c2b795ed9
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\1d\1d290a5691c0437368cd70866a27fddc
-    fullPath: C:\Users\matej\My project\Library\Artifacts\1d\1d290a5691c0437368cd70866a27fddc
-    projectPath: Library\Artifacts\1d\1d290a5691c0437368cd70866a27fddc
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\20\202caaa22838594dd1a0f00fbe64f388
-    fullPath: C:\Users\matej\My project\Library\Artifacts\20\202caaa22838594dd1a0f00fbe64f388
-    projectPath: Library\Artifacts\20\202caaa22838594dd1a0f00fbe64f388
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\21\2178a8a0fa8308fcfa83c6c3cf779a0c
-    fullPath: C:\Users\matej\My project\Library\Artifacts\21\2178a8a0fa8308fcfa83c6c3cf779a0c
-    projectPath: Library\Artifacts\21\2178a8a0fa8308fcfa83c6c3cf779a0c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\29\2989d1f6c57fd659e83c01575e4c3134
-    fullPath: C:\Users\matej\My project\Library\Artifacts\29\2989d1f6c57fd659e83c01575e4c3134
-    projectPath: Library\Artifacts\29\2989d1f6c57fd659e83c01575e4c3134
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\29\29e61a01598d790b328f01010a33047e
-    fullPath: C:\Users\matej\My project\Library\Artifacts\29\29e61a01598d790b328f01010a33047e
-    projectPath: Library\Artifacts\29\29e61a01598d790b328f01010a33047e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\29\29fa05385e8d173ae07d661d2d79ebc1
-    fullPath: C:\Users\matej\My project\Library\Artifacts\29\29fa05385e8d173ae07d661d2d79ebc1
-    projectPath: Library\Artifacts\29\29fa05385e8d173ae07d661d2d79ebc1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\2d\2d6cf9403fb8d4356c2c69dfab138ee7
-    fullPath: C:\Users\matej\My project\Library\Artifacts\2d\2d6cf9403fb8d4356c2c69dfab138ee7
-    projectPath: Library\Artifacts\2d\2d6cf9403fb8d4356c2c69dfab138ee7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\31\3197549236071dab28178d7b910ba2be
-    fullPath: C:\Users\matej\My project\Library\Artifacts\31\3197549236071dab28178d7b910ba2be
-    projectPath: Library\Artifacts\31\3197549236071dab28178d7b910ba2be
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\33\33baae964b6fe38d101c40259b3814a6
-    fullPath: C:\Users\matej\My project\Library\Artifacts\33\33baae964b6fe38d101c40259b3814a6
-    projectPath: Library\Artifacts\33\33baae964b6fe38d101c40259b3814a6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\3c\3ce8278978c023fdf92dc386708fa476
-    fullPath: C:\Users\matej\My project\Library\Artifacts\3c\3ce8278978c023fdf92dc386708fa476
-    projectPath: Library\Artifacts\3c\3ce8278978c023fdf92dc386708fa476
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\47\47b89762c1a4733053ea5970f3fbcb5b
-    fullPath: C:\Users\matej\My project\Library\Artifacts\47\47b89762c1a4733053ea5970f3fbcb5b
-    projectPath: Library\Artifacts\47\47b89762c1a4733053ea5970f3fbcb5b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\4d\4d1ddb23c05e3f0a41b47aa73f3da6e7
-    fullPath: C:\Users\matej\My project\Library\Artifacts\4d\4d1ddb23c05e3f0a41b47aa73f3da6e7
-    projectPath: Library\Artifacts\4d\4d1ddb23c05e3f0a41b47aa73f3da6e7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\4d\4d6277d63281862ba87a2aff0bd09eb2
-    fullPath: C:\Users\matej\My project\Library\Artifacts\4d\4d6277d63281862ba87a2aff0bd09eb2
-    projectPath: Library\Artifacts\4d\4d6277d63281862ba87a2aff0bd09eb2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\50\50091e9c34c55a06c9d7cac4ea47a49c
-    fullPath: C:\Users\matej\My project\Library\Artifacts\50\50091e9c34c55a06c9d7cac4ea47a49c
-    projectPath: Library\Artifacts\50\50091e9c34c55a06c9d7cac4ea47a49c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\5b\5bf7512ebf28c45a77f4e2143f643daf
-    fullPath: C:\Users\matej\My project\Library\Artifacts\5b\5bf7512ebf28c45a77f4e2143f643daf
-    projectPath: Library\Artifacts\5b\5bf7512ebf28c45a77f4e2143f643daf
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\68\68ad7fb3f69890d9527b304c2932af3c
-    fullPath: C:\Users\matej\My project\Library\Artifacts\68\68ad7fb3f69890d9527b304c2932af3c
-    projectPath: Library\Artifacts\68\68ad7fb3f69890d9527b304c2932af3c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\69\69ab88f2af4a0c8cac5527614a29a77b
-    fullPath: C:\Users\matej\My project\Library\Artifacts\69\69ab88f2af4a0c8cac5527614a29a77b
-    projectPath: Library\Artifacts\69\69ab88f2af4a0c8cac5527614a29a77b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\6e\6e4e6f95b383789eb04ca2d39e012ca5
-    fullPath: C:\Users\matej\My project\Library\Artifacts\6e\6e4e6f95b383789eb04ca2d39e012ca5
-    projectPath: Library\Artifacts\6e\6e4e6f95b383789eb04ca2d39e012ca5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\75\75586ce86c34f2ec537b7f9cc58d69f5
-    fullPath: C:\Users\matej\My project\Library\Artifacts\75\75586ce86c34f2ec537b7f9cc58d69f5
-    projectPath: Library\Artifacts\75\75586ce86c34f2ec537b7f9cc58d69f5
+  - path: Library\Artifacts\27\27277e6aac64d048b59da344b4fd71f5
+    fullPath: C:\Users\matej\My project\Library\Artifacts\27\27277e6aac64d048b59da344b4fd71f5
+    projectPath: Library\Artifacts\27\27277e6aac64d048b59da344b4fd71f5
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\80\8034c3ccf578c8cab95ec83446acd717
-    fullPath: C:\Users\matej\My project\Library\Artifacts\80\8034c3ccf578c8cab95ec83446acd717
-    projectPath: Library\Artifacts\80\8034c3ccf578c8cab95ec83446acd717
+  - path: Library\Artifacts\3e\3eae6c87f018fc20250aed3c88cfdb14
+    fullPath: C:\Users\matej\My project\Library\Artifacts\3e\3eae6c87f018fc20250aed3c88cfdb14
+    projectPath: Library\Artifacts\3e\3eae6c87f018fc20250aed3c88cfdb14
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\80\808ddc68f9a26f3fd82a897fcc98d6ed
-    fullPath: C:\Users\matej\My project\Library\Artifacts\80\808ddc68f9a26f3fd82a897fcc98d6ed
-    projectPath: Library\Artifacts\80\808ddc68f9a26f3fd82a897fcc98d6ed
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\80\80af4b70ded4f539065b263ce0ca476a
-    fullPath: C:\Users\matej\My project\Library\Artifacts\80\80af4b70ded4f539065b263ce0ca476a
-    projectPath: Library\Artifacts\80\80af4b70ded4f539065b263ce0ca476a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\89\89c334a88978db9f8b12af87e9c38d58
-    fullPath: C:\Users\matej\My project\Library\Artifacts\89\89c334a88978db9f8b12af87e9c38d58
-    projectPath: Library\Artifacts\89\89c334a88978db9f8b12af87e9c38d58
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\94\94303839cea47bfc21b6cacca02c5b46
-    fullPath: C:\Users\matej\My project\Library\Artifacts\94\94303839cea47bfc21b6cacca02c5b46
-    projectPath: Library\Artifacts\94\94303839cea47bfc21b6cacca02c5b46
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\94\944a6b1dd2c193592b25fd5b15242e0a
-    fullPath: C:\Users\matej\My project\Library\Artifacts\94\944a6b1dd2c193592b25fd5b15242e0a
-    projectPath: Library\Artifacts\94\944a6b1dd2c193592b25fd5b15242e0a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\94\948dff77c249307fb1d4385c542c57e2
-    fullPath: C:\Users\matej\My project\Library\Artifacts\94\948dff77c249307fb1d4385c542c57e2
-    projectPath: Library\Artifacts\94\948dff77c249307fb1d4385c542c57e2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\b5\b519ddcdd67f4edd35b538fbb708bb98
-    fullPath: C:\Users\matej\My project\Library\Artifacts\b5\b519ddcdd67f4edd35b538fbb708bb98
-    projectPath: Library\Artifacts\b5\b519ddcdd67f4edd35b538fbb708bb98
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\b6\b6336da9be1f8c890bf38b82f2f221e0
-    fullPath: C:\Users\matej\My project\Library\Artifacts\b6\b6336da9be1f8c890bf38b82f2f221e0
-    projectPath: Library\Artifacts\b6\b6336da9be1f8c890bf38b82f2f221e0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\b9\b959f01b072d20257d03a8833d13d733
-    fullPath: C:\Users\matej\My project\Library\Artifacts\b9\b959f01b072d20257d03a8833d13d733
-    projectPath: Library\Artifacts\b9\b959f01b072d20257d03a8833d13d733
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\c6\c60ca48c693cab5b4b0371ade22d5e3e
-    fullPath: C:\Users\matej\My project\Library\Artifacts\c6\c60ca48c693cab5b4b0371ade22d5e3e
-    projectPath: Library\Artifacts\c6\c60ca48c693cab5b4b0371ade22d5e3e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ce\ce3e5f6c5aac63df4100052d286d2a16
-    fullPath: C:\Users\matej\My project\Library\Artifacts\ce\ce3e5f6c5aac63df4100052d286d2a16
-    projectPath: Library\Artifacts\ce\ce3e5f6c5aac63df4100052d286d2a16
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ce\ceb6536372aa03a20aed24ffab563920
-    fullPath: C:\Users\matej\My project\Library\Artifacts\ce\ceb6536372aa03a20aed24ffab563920
-    projectPath: Library\Artifacts\ce\ceb6536372aa03a20aed24ffab563920
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\d8\d8c24cf553ba96935c2343b9d55c3533
-    fullPath: C:\Users\matej\My project\Library\Artifacts\d8\d8c24cf553ba96935c2343b9d55c3533
-    projectPath: Library\Artifacts\d8\d8c24cf553ba96935c2343b9d55c3533
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\db\db4039d3233a8ec3b7432bfcc291b353
-    fullPath: C:\Users\matej\My project\Library\Artifacts\db\db4039d3233a8ec3b7432bfcc291b353
-    projectPath: Library\Artifacts\db\db4039d3233a8ec3b7432bfcc291b353
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\e4\e4b18eaf418a33efc35faa44767638d6
-    fullPath: C:\Users\matej\My project\Library\Artifacts\e4\e4b18eaf418a33efc35faa44767638d6
-    projectPath: Library\Artifacts\e4\e4b18eaf418a33efc35faa44767638d6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\e8\e88d992a5a7ef3fbb2ce86aac6b2c00f
-    fullPath: C:\Users\matej\My project\Library\Artifacts\e8\e88d992a5a7ef3fbb2ce86aac6b2c00f
-    projectPath: Library\Artifacts\e8\e88d992a5a7ef3fbb2ce86aac6b2c00f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ec\ec9d54b462de89b731478ca57cd53220
-    fullPath: C:\Users\matej\My project\Library\Artifacts\ec\ec9d54b462de89b731478ca57cd53220
-    projectPath: Library\Artifacts\ec\ec9d54b462de89b731478ca57cd53220
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\f1\f16a2898fa2d1a7cca1ed1ae7f757514
-    fullPath: C:\Users\matej\My project\Library\Artifacts\f1\f16a2898fa2d1a7cca1ed1ae7f757514
-    projectPath: Library\Artifacts\f1\f16a2898fa2d1a7cca1ed1ae7f757514
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\f1\f189e62c363f1842b2e66bb05d9e0715
-    fullPath: C:\Users\matej\My project\Library\Artifacts\f1\f189e62c363f1842b2e66bb05d9e0715
-    projectPath: Library\Artifacts\f1\f189e62c363f1842b2e66bb05d9e0715
+  - path: Library\Artifacts\59\59a077811b6807ffb565628622fb6e27
+    fullPath: C:\Users\matej\My project\Library\Artifacts\59\59a077811b6807ffb565628622fb6e27
+    projectPath: Library\Artifacts\59\59a077811b6807ffb565628622fb6e27
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\f2\f2f7f1fec266a825e72ad9ab2be09966
-    fullPath: C:\Users\matej\My project\Library\Artifacts\f2\f2f7f1fec266a825e72ad9ab2be09966
-    projectPath: Library\Artifacts\f2\f2f7f1fec266a825e72ad9ab2be09966
+  - path: Library\Artifacts\67\673a6e859576d93a4e40d8aef70a8d11
+    fullPath: C:\Users\matej\My project\Library\Artifacts\67\673a6e859576d93a4e40d8aef70a8d11
+    projectPath: Library\Artifacts\67\673a6e859576d93a4e40d8aef70a8d11
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\75\75e28af9c210ae72b3c487b6ea3a0135
+    fullPath: C:\Users\matej\My project\Library\Artifacts\75\75e28af9c210ae72b3c487b6ea3a0135
+    projectPath: Library\Artifacts\75\75e28af9c210ae72b3c487b6ea3a0135
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\f5\f5dea9c32fec13e50197cbdca2d18715
-    fullPath: C:\Users\matej\My project\Library\Artifacts\f5\f5dea9c32fec13e50197cbdca2d18715
-    projectPath: Library\Artifacts\f5\f5dea9c32fec13e50197cbdca2d18715
+  - path: Library\Artifacts\90\90710de12378ffe330073a1291cda446
+    fullPath: C:\Users\matej\My project\Library\Artifacts\90\90710de12378ffe330073a1291cda446
+    projectPath: Library\Artifacts\90\90710de12378ffe330073a1291cda446
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9e\9e03a13052fa5f71309743aed1f73dfc
+    fullPath: C:\Users\matej\My project\Library\Artifacts\9e\9e03a13052fa5f71309743aed1f73dfc
+    projectPath: Library\Artifacts\9e\9e03a13052fa5f71309743aed1f73dfc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d0\d0c0652e8e4f432f50ec5f98e0475bc2
+    fullPath: C:\Users\matej\My project\Library\Artifacts\d0\d0c0652e8e4f432f50ec5f98e0475bc2
+    projectPath: Library\Artifacts\d0\d0c0652e8e4f432f50ec5f98e0475bc2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d4\d46371d8bdbdaf5fab6b57e30adc9b1e
+    fullPath: C:\Users\matej\My project\Library\Artifacts\d4\d46371d8bdbdaf5fab6b57e30adc9b1e
+    projectPath: Library\Artifacts\d4\d46371d8bdbdaf5fab6b57e30adc9b1e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d7\d7c7175624913b428e32d8b88c87b7ee
+    fullPath: C:\Users\matej\My project\Library\Artifacts\d7\d7c7175624913b428e32d8b88c87b7ee
+    projectPath: Library\Artifacts\d7\d7c7175624913b428e32d8b88c87b7ee
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e3\e3eadd2e6058f3441dcc096d27b7f3d3
+    fullPath: C:\Users\matej\My project\Library\Artifacts\e3\e3eadd2e6058f3441dcc096d27b7f3d3
+    projectPath: Library\Artifacts\e3\e3eadd2e6058f3441dcc096d27b7f3d3
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\f7\f70f5db53d36bb4c172e0d8e7424f574
-    fullPath: C:\Users\matej\My project\Library\Artifacts\f7\f70f5db53d36bb4c172e0d8e7424f574
-    projectPath: Library\Artifacts\f7\f70f5db53d36bb4c172e0d8e7424f574
+  - path: Library\Artifacts\e3\e3f3744c72de460477c43291ce946336
+    fullPath: C:\Users\matej\My project\Library\Artifacts\e3\e3f3744c72de460477c43291ce946336
+    projectPath: Library\Artifacts\e3\e3f3744c72de460477c43291ce946336
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\f9\f9bef9dd60565fa9949d41d0d72006dc
-    fullPath: C:\Users\matej\My project\Library\Artifacts\f9\f9bef9dd60565fa9949d41d0d72006dc
-    projectPath: Library\Artifacts\f9\f9bef9dd60565fa9949d41d0d72006dc
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e8\e8c05a3fc32abeb4eb34a05d8c1e5a5b
+    fullPath: C:\Users\matej\My project\Library\Artifacts\e8\e8c05a3fc32abeb4eb34a05d8c1e5a5b
+    projectPath: Library\Artifacts\e8\e8c05a3fc32abeb4eb34a05d8c1e5a5b
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\fa\fa2070c46bbe1c9611dd48bb84593c13
-    fullPath: C:\Users\matej\My project\Library\Artifacts\fa\fa2070c46bbe1c9611dd48bb84593c13
-    projectPath: Library\Artifacts\fa\fa2070c46bbe1c9611dd48bb84593c13
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f4\f400ba029a11971265db4ba8f7c3e037
+    fullPath: C:\Users\matej\My project\Library\Artifacts\f4\f400ba029a11971265db4ba8f7c3e037
+    projectPath: Library\Artifacts\f4\f400ba029a11971265db4ba8f7c3e037
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\1900b0aE.dag
-    fullPath: C:\Users\matej\My project\Library\Bee\1900b0aE.dag
-    projectPath: Library\Bee\1900b0aE.dag
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\1900b0aE.dag.json
-    fullPath: C:\Users\matej\My project\Library\Bee\1900b0aE.dag.json
-    projectPath: Library\Bee\1900b0aE.dag.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\1900b0aE.dag_derived
-    fullPath: C:\Users\matej\My project\Library\Bee\1900b0aE.dag_derived
-    projectPath: Library\Bee\1900b0aE.dag_derived
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\1900b0aE-inputdata.json
-    fullPath: C:\Users\matej\My project\Library\Bee\1900b0aE-inputdata.json
-    projectPath: Library\Bee\1900b0aE-inputdata.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\1900b0aP.dag
-    fullPath: C:\Users\matej\My project\Library\Bee\1900b0aP.dag
-    projectPath: Library\Bee\1900b0aP.dag
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\1900b0aP.dag.json
-    fullPath: C:\Users\matej\My project\Library\Bee\1900b0aP.dag.json
-    projectPath: Library\Bee\1900b0aP.dag.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\1900b0aP.dag_fsmtime
-    fullPath: C:\Users\matej\My project\Library\Bee\1900b0aP.dag_fsmtime
-    projectPath: Library\Bee\1900b0aP.dag_fsmtime
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\1900b0aP-inputdata.json
-    fullPath: C:\Users\matej\My project\Library\Bee\1900b0aP-inputdata.json
-    projectPath: Library\Bee\1900b0aP-inputdata.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll
     fullPath: C:\Users\matej\My project\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll
@@ -525,69 +190,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.rsp
-    fullPath: C:\Users\matej\My project\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.rsp
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aP.dag\Assembly-CSharp.dll
-    fullPath: C:\Users\matej\My project\Library\Bee\artifacts\1900b0aP.dag\Assembly-CSharp.dll
-    projectPath: Library\Bee\artifacts\1900b0aP.dag\Assembly-CSharp.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aP.dag\Assembly-CSharp.pdb
-    fullPath: C:\Users\matej\My project\Library\Bee\artifacts\1900b0aP.dag\Assembly-CSharp.pdb
-    projectPath: Library\Bee\artifacts\1900b0aP.dag\Assembly-CSharp.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aP.dag\Assembly-CSharp.ref.dll
-    fullPath: C:\Users\matej\My project\Library\Bee\artifacts\1900b0aP.dag\Assembly-CSharp.ref.dll
-    projectPath: Library\Bee\artifacts\1900b0aP.dag\Assembly-CSharp.ref.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aP.dag\Assembly-CSharp.rsp
-    fullPath: C:\Users\matej\My project\Library\Bee\artifacts\1900b0aP.dag\Assembly-CSharp.rsp
-    projectPath: Library\Bee\artifacts\1900b0aP.dag\Assembly-CSharp.rsp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\Bee\backend_profiler0.traceevents
     fullPath: C:\Users\matej\My project\Library\Bee\backend_profiler0.traceevents
     projectPath: Library\Bee\backend_profiler0.traceevents
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\backend_profiler1.traceevents
-    fullPath: C:\Users\matej\My project\Library\Bee\backend_profiler1.traceevents
-    projectPath: Library\Bee\backend_profiler1.traceevents
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\buildprogram0.traceevents
-    fullPath: C:\Users\matej\My project\Library\Bee\buildprogram0.traceevents
-    projectPath: Library\Bee\buildprogram0.traceevents
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\buildreport.json
-    fullPath: C:\Users\matej\My project\Library\Bee\buildreport.json
-    projectPath: Library\Bee\buildreport.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\buildreport.json_0.traceevents
-    fullPath: C:\Users\matej\My project\Library\Bee\buildreport.json_0.traceevents
-    projectPath: Library\Bee\buildreport.json_0.traceevents
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\buildreport.json_1.traceevents
-    fullPath: C:\Users\matej\My project\Library\Bee\buildreport.json_1.traceevents
-    projectPath: Library\Bee\buildreport.json_1.traceevents
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -597,45 +202,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Bee\Playerbdee887e.dag
-    fullPath: C:\Users\matej\My project\Library\Bee\Playerbdee887e.dag
-    projectPath: Library\Bee\Playerbdee887e.dag
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\Playerbdee887e.dag.json
-    fullPath: C:\Users\matej\My project\Library\Bee\Playerbdee887e.dag.json
-    projectPath: Library\Bee\Playerbdee887e.dag.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\Playerbdee887e.dag.outputdata
-    fullPath: C:\Users\matej\My project\Library\Bee\Playerbdee887e.dag.outputdata
-    projectPath: Library\Bee\Playerbdee887e.dag.outputdata
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\Playerbdee887e.dag_derived
-    fullPath: C:\Users\matej\My project\Library\Bee\Playerbdee887e.dag_derived
-    projectPath: Library\Bee\Playerbdee887e.dag_derived
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\Playerbdee887e.dag_fsmtime
-    fullPath: C:\Users\matej\My project\Library\Bee\Playerbdee887e.dag_fsmtime
-    projectPath: Library\Bee\Playerbdee887e.dag_fsmtime
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\Bee\tundra.digestcache
     fullPath: C:\Users\matej\My project\Library\Bee\tundra.digestcache
     projectPath: Library\Bee\tundra.digestcache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\tundra.log.json
-    fullPath: C:\Users\matej\My project\Library\Bee\tundra.log.json
-    projectPath: Library\Bee\tundra.log.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -651,18 +220,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\BuildPlayerData\Editor\TypeDb-All.json
-    fullPath: C:\Users\matej\My project\Library\BuildPlayerData\Editor\TypeDb-All.json
-    projectPath: Library\BuildPlayerData\Editor\TypeDb-All.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\BuildPlayerData\Player\TypeDb-All.json
-    fullPath: C:\Users\matej\My project\Library\BuildPlayerData\Player\TypeDb-All.json
-    projectPath: Library\BuildPlayerData\Player\TypeDb-All.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\EditorInstance.json
     fullPath: C:\Users\matej\My project\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
@@ -672,12 +229,6 @@ MonoBehaviour:
   - path: Library\gfu\cache\branches.yaml
     fullPath: C:\Users\matej\My project\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\matej\My project\Library\gfu\cache\gitlocks.yaml
-    projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -711,84 +262,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\LastBuild.buildreport
-    fullPath: C:\Users\matej\My project\Library\LastBuild.buildreport
-    projectPath: Library\LastBuild.buildreport
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\LastSceneManagerSetup.txt
-    fullPath: C:\Users\matej\My project\Library\LastSceneManagerSetup.txt
-    projectPath: Library\LastSceneManagerSetup.txt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PlayerDataCache\Win64\Data\globalgamemanagers
-    fullPath: C:\Users\matej\My project\Library\PlayerDataCache\Win64\Data\globalgamemanagers
-    projectPath: Library\PlayerDataCache\Win64\Data\globalgamemanagers
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets
-    fullPath: C:\Users\matej\My project\Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets
-    projectPath: Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PlayerDataCache\Win64\Data\level0
-    fullPath: C:\Users\matej\My project\Library\PlayerDataCache\Win64\Data\level0
-    projectPath: Library\PlayerDataCache\Win64\Data\level0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PlayerDataCache\Win64\Data\level1
-    fullPath: C:\Users\matej\My project\Library\PlayerDataCache\Win64\Data\level1
-    projectPath: Library\PlayerDataCache\Win64\Data\level1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PlayerDataCache\Win64\Data\resources.assets
-    fullPath: C:\Users\matej\My project\Library\PlayerDataCache\Win64\Data\resources.assets
-    projectPath: Library\PlayerDataCache\Win64\Data\resources.assets
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PlayerDataCache\Win64\Data\sharedassets0.assets
-    fullPath: C:\Users\matej\My project\Library\PlayerDataCache\Win64\Data\sharedassets0.assets
-    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets0.assets
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PlayerDataCache\Win64\Data\sharedassets0.assets.resS
-    fullPath: C:\Users\matej\My project\Library\PlayerDataCache\Win64\Data\sharedassets0.assets.resS
-    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets0.assets.resS
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PlayerDataCache\Win64\Data\sharedassets1.assets
-    fullPath: C:\Users\matej\My project\Library\PlayerDataCache\Win64\Data\sharedassets1.assets
-    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets1.assets
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PlayerDataCache\Win64\Data\sharedassets1.assets.resS
-    fullPath: C:\Users\matej\My project\Library\PlayerDataCache\Win64\Data\sharedassets1.assets.resS
-    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets1.assets.resS
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\PlayerDataCache\Win64\DataBuildDirtyInfo.json
-    fullPath: C:\Users\matej\My project\Library\PlayerDataCache\Win64\DataBuildDirtyInfo.json
-    projectPath: Library\PlayerDataCache\Win64\DataBuildDirtyInfo.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PlayerDataCache\Win64\ScriptsOnlyCache.yaml
-    fullPath: C:\Users\matej\My project\Library\PlayerDataCache\Win64\ScriptsOnlyCache.yaml
-    projectPath: Library\PlayerDataCache\Win64\ScriptsOnlyCache.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\SceneVisibilityState.asset
     fullPath: C:\Users\matej\My project\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
@@ -813,15 +286,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ShaderCache\EditorEncounteredVariants
-    fullPath: C:\Users\matej\My project\Library\ShaderCache\EditorEncounteredVariants
-    projectPath: Library\ShaderCache\EditorEncounteredVariants
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\SourceAssetDB
     fullPath: C:\Users\matej\My project\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    fullPath: C:\Users\matej\My project\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    projectPath: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -835,41 +308,59 @@ MonoBehaviour:
     fullPath: C:\Users\matej\My project\Logs\AssetImportWorker0.log
     projectPath: Logs\AssetImportWorker0.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Logs\AssetImportWorker0-prev.log
     fullPath: C:\Users\matej\My project\Logs\AssetImportWorker0-prev.log
     projectPath: Logs\AssetImportWorker0-prev.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Logs\AssetImportWorker1.log
     fullPath: C:\Users\matej\My project\Logs\AssetImportWorker1.log
     projectPath: Logs\AssetImportWorker1.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Logs\AssetImportWorker1-prev.log
     fullPath: C:\Users\matej\My project\Logs\AssetImportWorker1-prev.log
     projectPath: Logs\AssetImportWorker1-prev.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Logs\shadercompiler-AssetImportWorker0.log
     fullPath: C:\Users\matej\My project\Logs\shadercompiler-AssetImportWorker0.log
     projectPath: Logs\shadercompiler-AssetImportWorker0.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ProjectSettings\QualitySettings.asset
-    fullPath: C:\Users\matej\My project\ProjectSettings\QualitySettings.asset
-    projectPath: ProjectSettings\QualitySettings.asset
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\matej\My project\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Temp\FSTimeGet-b0d460d025c76d54eb9b6d6fc98b44b2
-    fullPath: C:\Users\matej\My project\Temp\FSTimeGet-b0d460d025c76d54eb9b6d6fc98b44b2
-    projectPath: Temp\FSTimeGet-b0d460d025c76d54eb9b6d6fc98b44b2
+  - path: Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\matej\My project\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\FSTimeGet-0e35b129126b3784190ee960a957c80a
+    fullPath: C:\Users\matej\My project\Temp\FSTimeGet-0e35b129126b3784190ee960a957c80a
+    projectPath: Temp\FSTimeGet-0e35b129126b3784190ee960a957c80a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\FSTimeGet-104e4e2abf977e14481fb2eafa5a7b81
+    fullPath: C:\Users\matej\My project\Temp\FSTimeGet-104e4e2abf977e14481fb2eafa5a7b81
+    projectPath: Temp\FSTimeGet-104e4e2abf977e14481fb2eafa5a7b81
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\FSTimeGet-2bda104649fcd644587655181ff1eb1a
+    fullPath: C:\Users\matej\My project\Temp\FSTimeGet-2bda104649fcd644587655181ff1eb1a
+    projectPath: Temp\FSTimeGet-2bda104649fcd644587655181ff1eb1a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -885,9 +376,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: UserSettings\EditorUserSettings.asset
-    fullPath: C:\Users\matej\My project\UserSettings\EditorUserSettings.asset
-    projectPath: UserSettings\EditorUserSettings.asset
+  - path: UserSettings\Layouts\CurrentMaximizeLayout.dwlt
+    fullPath: C:\Users\matej\My project\UserSettings\Layouts\CurrentMaximizeLayout.dwlt
+    projectPath: UserSettings\Layouts\CurrentMaximizeLayout.dwlt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3

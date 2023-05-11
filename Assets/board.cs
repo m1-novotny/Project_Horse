@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 public class board : MonoBehaviour
 {
     // Start is called before the first frame update
+    bool sound;
     public GameObject white;
     public GameObject black;
     public GameObject green;
@@ -15,19 +16,23 @@ public class board : MonoBehaviour
     int tilesize;
     public bool done = false;
     int newx;
+    int max;
     int newy;
     float timer;
     public bool move;
     public GameObject falling;
     public GameObject rising;
     public bool rotate;
-
+    public AudioSource horse;
+    public AudioSource victory;
     public int mode;
     bool fail = false;
     public int zivoty = 0;
     Quaternion target;
     void Start()
     {
+        max = 64;
+        sound = false;
         timer = 0;
         move = false;
         newx = 3;
@@ -123,9 +128,10 @@ public class board : MonoBehaviour
         }
         if (markers == 0 && mode == 1)
         {
+            zivoty = (zivoty - 1);
             if (zivoty != 0 && score!=64)
             {
-                zivoty = (zivoty - 1);
+                
                 fail = true;
                 for (int i = 0; i < 8; i++)
                 {
@@ -203,17 +209,28 @@ public class board : MonoBehaviour
             if (timer > 0.7)
                 {
                     player.transform.position = Vector3.MoveTowards(position, target, 8 * Time.deltaTime);
-                }
-                if ((timer > 0.7))
-                {
                     falling.transform.position = Vector3.MoveTowards(position2, target2, 45 * (Time.deltaTime * timer));
                 }
+            if ((Vector3.Distance(position, target) < 1))
+                    {
+                if(sound==false)
+                {
+                    horse.Play();
+                    sound = true;
 
-                if ((Vector3.Distance(position2, target2) + Vector3.Distance(position, target) < 0.002f))
+                    if (score == max)
+                    {
+                        victory.Play();
+                        sound = true;
+                    }
+                }
+            }
+            if ((Vector3.Distance(position2, target2) + Vector3.Distance(position, target) < 0.002f))
                 {
                     player.transform.position = target;
                     move = false;
                     fail = false;
+                sound = false;
                     timer = 0;
                     ShowMarkers();
                 }
