@@ -12,8 +12,37 @@ public class menu : MonoBehaviour
     public Button Random;
     public Button Impossible;
     public TMP_InputField input1;
+    public GameObject ms1;
+    public GameObject ms2;
+    public GameObject ms3;
     void Start()
     {
+
+        switch(PlayerPrefs.GetInt("unlocks", 0))
+        {
+            case 1:
+                Random.gameObject.SetActive(true);
+                Impossible.gameObject.SetActive(false);
+                ms1.SetActive(false);
+                ms2.SetActive(true);
+                ms3.SetActive(false);
+                break;
+            case 2:
+                Random.gameObject.SetActive(true);
+                Impossible.gameObject.SetActive(true);
+                ms1.SetActive(false);
+                ms2.SetActive(false);
+                ms3.SetActive(true);
+                break;
+            default:
+                Random.gameObject.SetActive(false);
+                Impossible.gameObject.SetActive(false);
+                ms1.SetActive(true);
+                ms2.SetActive(false);
+                ms3.SetActive(false);
+                break;
+
+        }
         Button btn_easy = Easy.GetComponent<Button>();
         btn_easy.onClick.AddListener(EasyClick);
 

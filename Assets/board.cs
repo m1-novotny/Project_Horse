@@ -17,6 +17,7 @@ public class board : MonoBehaviour
     public bool done = false;
     int newx;
     int max;
+    float timer2;
     int newy;
     float timer;
     public bool move;
@@ -28,6 +29,8 @@ public class board : MonoBehaviour
     public int mode;
     bool fail = false;
     public int zivoty = 0;
+    bool win = false;
+    public int unlocks = 0;
     Quaternion target;
     void Start()
     {
@@ -40,13 +43,12 @@ public class board : MonoBehaviour
         tilesize = 3;
         score = 1;
 
-        mode = PlayerPrefs.GetInt("mode");
+        mode = PlayerPrefs.GetInt("mode",0);
+        unlocks = PlayerPrefs.GetInt("unlocks", 0);
         GameObject tile;
         int x;
         int y;
         string vysledek;
-        if (mode != 3)
-        {
             if (mode==1)
             {
                 zivoty = PlayerPrefs.GetInt("lives");
@@ -55,18 +57,21 @@ public class board : MonoBehaviour
             {
                 x = i / 8;
                 y = i % 8;
-                if ((i - x) % 2 == 0)
+                if ((mode != 3) || ((x < 4) || (y < 4)) || ((x == 7) && (y == 7)))
                 {
-                    tile = Instantiate(white, new Vector3(x * tilesize, 0, y * tilesize), Quaternion.identity) as GameObject;
+                    if ((i - x) % 2 == 0)
+                    {
+                        tile = Instantiate(white, new Vector3(x * tilesize, 0, y * tilesize), Quaternion.identity) as GameObject;
 
-                }
-                else
-                {
-                    tile = Instantiate(black, new Vector3(x * tilesize, 0, y * tilesize), Quaternion.identity) as GameObject;
+                    }
+                    else
+                    {
+                        tile = Instantiate(black, new Vector3(x * tilesize, 0, y * tilesize), Quaternion.identity) as GameObject;
 
+                    }
+                    vysledek = x.ToString() + y.ToString();
+                    tile.name = vysledek;
                 }
-                vysledek = x.ToString() + y.ToString();
-                tile.name = vysledek;
             }
             if (mode == 2)
             {
@@ -75,28 +80,6 @@ public class board : MonoBehaviour
                 player.transform.position = new Vector3(x * tilesize, player.transform.position.y, y * tilesize);
             }
 
-        }
-        else
-        {
-            for (var i = 0; i < 9; i++)
-            {
-                x = 2 + i / 3;
-                y = 2 + i % 3;
-                if (i % 2 == 0)
-                {
-                    tile = Instantiate(white, new Vector3(x * tilesize, 0, y * tilesize), Quaternion.identity) as GameObject;
-
-                }
-                else
-                {
-                    tile = Instantiate(black, new Vector3(x * tilesize, 0, y * tilesize), Quaternion.identity) as GameObject;
-
-                }
-                vysledek = x.ToString() + y.ToString();
-                tile.name = vysledek;
-            }
-            player.transform.position = new Vector3(2 * tilesize, player.transform.position.y, 2 * tilesize);
-        }
         ShowMarkers();
 
     }
@@ -153,7 +136,29 @@ public class board : MonoBehaviour
 
         void Update()
         {
-            if (Input.GetMouseButtonDown(0))
+        if(score==64)
+        {
+            if(win==false)
+            {
+                timer2 = 0;
+                if ((mode == 0) && (unlocks == 0))
+                {
+                    PlayerPrefs.SetInt("unlocks", 1);
+                }
+                if ((mode == 2) && (unlocks == 1))
+                {
+                    PlayerPrefs.SetInt("unlocks", 2);
+                }
+                win = true;
+            }
+            timer2 = timer2 + Time.deltaTime;
+            if(timer2>8)
+            {
+                SceneManager.LoadScene("Menu");
+
+            }
+        }
+        if (Input.GetMouseButtonDown(0))
             {
                 RaycastHit hit;
                 Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
@@ -176,7 +181,7 @@ public class board : MonoBehaviour
                         Destroy(tile);
                     }
                     if (fail!= true)
-                        score++;
+                        
                         rising = GameObject.Find((newx/tilesize).ToString() + (newy/tilesize).ToString());
 
             }
@@ -232,7 +237,8 @@ public class board : MonoBehaviour
                     fail = false;
                 sound = false;
                     timer = 0;
-                    ShowMarkers();
+                score++;
+                ShowMarkers();
                 }
             }
 
