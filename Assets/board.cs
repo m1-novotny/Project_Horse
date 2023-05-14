@@ -222,6 +222,10 @@ public class board : MonoBehaviour
                 {
                     horse.Play();
                     sound = true;
+                    if (fail == false)
+                    {
+                        score++;
+                    }
 
                     if (score == max)
                     {
@@ -234,10 +238,6 @@ public class board : MonoBehaviour
                 {
                     player.transform.position = target;
                     move = false;
-                if(fail==false)
-                {
-                    score++;
-                }
                 fail = false;
                 sound = false;
                     timer = 0;
