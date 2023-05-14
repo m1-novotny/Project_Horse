@@ -180,10 +180,10 @@ public class board : MonoBehaviour
                         tile = GameObject.Find(markerarray[i]);
                         Destroy(tile);
                     }
-                    if (fail!= true)
-                        
-                        rising = GameObject.Find((newx/tilesize).ToString() + (newy/tilesize).ToString());
-
+                if (fail == true)
+                {
+                    rising = GameObject.Find((newx / tilesize).ToString() + (newy / tilesize).ToString());
+                }
             }
         }
             if (rotate == true)
@@ -234,10 +234,13 @@ public class board : MonoBehaviour
                 {
                     player.transform.position = target;
                     move = false;
-                    fail = false;
+                if(fail==false)
+                {
+                    score++;
+                }
+                fail = false;
                 sound = false;
                     timer = 0;
-                score++;
                 ShowMarkers();
                 }
             }

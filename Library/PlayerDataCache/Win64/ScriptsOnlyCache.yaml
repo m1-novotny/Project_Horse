@@ -11,11 +11,9 @@ ScriptsOnlyBuild:
     - win_message
     GitHub.Unity.45.dll:
     - GitHub.Unity.ApplicationCache
-    - GitHub.Unity.BranchesCache
     - GitHub.Unity.EnvironmentCache
     - GitHub.Unity.GitAheadBehindCache
     - GitHub.Unity.GitLocksCache
-    - GitHub.Unity.GitLogCache
     - GitHub.Unity.GitStatusCache
     - GitHub.Unity.RepositoryInfoCache
     Unity.Rider.Editor.dll:
@@ -23,6 +21,7 @@ ScriptsOnlyBuild:
     Unity.TextMeshPro.dll:
     - TMPro.TMP_ColorGradient
     - TMPro.TMP_FontAsset
+    - TMPro.TMP_InputField
     - TMPro.TMP_Settings
     - TMPro.TMP_SpriteAsset
     - TMPro.TMP_StyleSheet
@@ -45,6 +44,8 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.GraphicRaycaster
     - UnityEngine.UI.GridLayoutGroup
     - UnityEngine.UI.Image
+    - UnityEngine.UI.LayoutElement
+    - UnityEngine.UI.RectMask2D
   serializedClasses:
     Unity.TextMeshPro:
     - TMPro.FaceInfo_Legacy
@@ -56,6 +57,11 @@ ScriptsOnlyBuild:
     - TMPro.TMP_GlyphAdjustmentRecord
     - TMPro.TMP_GlyphPairAdjustmentRecord
     - TMPro.TMP_GlyphValueRecord
+    - TMPro.TMP_InputField/OnChangeEvent
+    - TMPro.TMP_InputField/SelectionEvent
+    - TMPro.TMP_InputField/SubmitEvent
+    - TMPro.TMP_InputField/TextSelectionEvent
+    - TMPro.TMP_InputField/TouchScreenKeyboardEvent
     - TMPro.TMP_Sprite
     - TMPro.TMP_SpriteCharacter
     - TMPro.TMP_SpriteGlyph
@@ -105,6 +111,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
     - Class: 89
       Script: {instanceID: 0}
     - Class: 91
@@ -146,7 +156,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 7436}
     - Class: 114
-      Script: {instanceID: 7602}
+      Script: {instanceID: 7604}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -201,6 +211,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1574}
     - Class: 114
+      Script: {instanceID: 1738}
+    - Class: 114
       Script: {instanceID: 2188}
     - Class: 114
       Script: {instanceID: 2600}
@@ -211,9 +223,13 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 3966}
     - Class: 114
+      Script: {instanceID: 4058}
+    - Class: 114
       Script: {instanceID: 4074}
     - Class: 114
       Script: {instanceID: 4324}
+    - Class: 114
+      Script: {instanceID: 4838}
     - Class: 114
       Script: {instanceID: 5020}
     - Class: 114
@@ -911,7 +927,7 @@ ScriptsOnlyBuild:
     className: StateGraphAsset
   - hash:
       serializedVersion: 2
-      Hash: 5ee983ddcc6d82580b19999549a46ef6
+      Hash: e6d2ff8b7dcbf08c6f31d2ae209dda2c
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: board
@@ -965,7 +981,7 @@ ScriptsOnlyBuild:
     className: Benchmark03
   - hash:
       serializedVersion: 2
-      Hash: 2af3a0b6f6fed46af05f1cb516c1a518
+      Hash: fe09aeadec32b3adad4e7c299ca1c694
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: menu
@@ -1273,4 +1289,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/Menu.unity
   - Assets/Scenes/Hra.unity
-  playerPath: C:/Users/matej/My project/build/My project.exe
+  playerPath: C:/Users/matej/Desktop/skola/PP/Horse Quest/Horse Quest.exe

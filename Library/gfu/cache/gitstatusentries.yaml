@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2023-05-13T21:26:03.923+02:00
-  initializedAtString: 2023-05-13T19:42:01.315+02:00
+  lastUpdatedAtString: 2023-05-14T15:47:10.469+02:00
+  initializedAtString: 2023-05-14T15:37:24.762+02:00
   entries:
   - path: Assets\board.cs
     fullPath: C:\Users\matej\My project\Assets\board.cs
@@ -22,15 +22,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\menu.cs
-    fullPath: C:\Users\matej\My project\Assets\menu.cs
-    projectPath: Assets\menu.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scenes\Menu.unity
-    fullPath: C:\Users\matej\My project\Assets\Scenes\Menu.unity
-    projectPath: Assets\Scenes\Menu.unity
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
+      SDF.asset
+    fullPath: C:\Users\matej\My project\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+      & Materials\Roboto-Bold SDF.asset
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
+      SDF.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -40,15 +37,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Artifacts\10\10d2e643cf7f4a6fb79c0bc434c137af
-    fullPath: C:\Users\matej\My project\Library\Artifacts\10\10d2e643cf7f4a6fb79c0bc434c137af
-    projectPath: Library\Artifacts\10\10d2e643cf7f4a6fb79c0bc434c137af
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Library\Artifacts\11\111b68638d15fa4cc5a3ab87267ad7b0
     fullPath: C:\Users\matej\My project\Library\Artifacts\11\111b68638d15fa4cc5a3ab87267ad7b0
     projectPath: Library\Artifacts\11\111b68638d15fa4cc5a3ab87267ad7b0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\2c\2c2bc9e0a6e88b6b42a9a08a58114ae6
+    fullPath: C:\Users\matej\My project\Library\Artifacts\2c\2c2bc9e0a6e88b6b42a9a08a58114ae6
+    projectPath: Library\Artifacts\2c\2c2bc9e0a6e88b6b42a9a08a58114ae6
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -56,23 +53,29 @@ MonoBehaviour:
     fullPath: C:\Users\matej\My project\Library\Artifacts\47\478cec168c1a76c80e8adcb350a6331f
     projectPath: Library\Artifacts\47\478cec168c1a76c80e8adcb350a6331f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\47\47bb41d1fc4929695ca2793d4326c676
     fullPath: C:\Users\matej\My project\Library\Artifacts\47\47bb41d1fc4929695ca2793d4326c676
     projectPath: Library\Artifacts\47\47bb41d1fc4929695ca2793d4326c676
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\79\79ddabde5dd25ef825f2deb19f7425ae
-    fullPath: C:\Users\matej\My project\Library\Artifacts\79\79ddabde5dd25ef825f2deb19f7425ae
-    projectPath: Library\Artifacts\79\79ddabde5dd25ef825f2deb19f7425ae
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\52\52373e1fe7183dc1a5cb5dbe8aeed5bb
+    fullPath: C:\Users\matej\My project\Library\Artifacts\52\52373e1fe7183dc1a5cb5dbe8aeed5bb
+    projectPath: Library\Artifacts\52\52373e1fe7183dc1a5cb5dbe8aeed5bb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\aa\aa8014aea1b6b53b76d660046e56c64c
-    fullPath: C:\Users\matej\My project\Library\Artifacts\aa\aa8014aea1b6b53b76d660046e56c64c
-    projectPath: Library\Artifacts\aa\aa8014aea1b6b53b76d660046e56c64c
+  - path: Library\Artifacts\54\54ab0bd0d409cf13eb9f21d5a4461c4e
+    fullPath: C:\Users\matej\My project\Library\Artifacts\54\54ab0bd0d409cf13eb9f21d5a4461c4e
+    projectPath: Library\Artifacts\54\54ab0bd0d409cf13eb9f21d5a4461c4e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\93\93d3cef81f77a7cde9b804aef368538e
+    fullPath: C:\Users\matej\My project\Library\Artifacts\93\93d3cef81f77a7cde9b804aef368538e
+    projectPath: Library\Artifacts\93\93d3cef81f77a7cde9b804aef368538e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -80,26 +83,26 @@ MonoBehaviour:
     fullPath: C:\Users\matej\My project\Library\Artifacts\af\afba2b44cb882aa0754e713867e6c4c1
     projectPath: Library\Artifacts\af\afba2b44cb882aa0754e713867e6c4c1
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\ce\ceb6536372aa03a20aed24ffab563920
+    fullPath: C:\Users\matej\My project\Library\Artifacts\ce\ceb6536372aa03a20aed24ffab563920
+    projectPath: Library\Artifacts\ce\ceb6536372aa03a20aed24ffab563920
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\d0\d0c0652e8e4f432f50ec5f98e0475bc2
-    fullPath: C:\Users\matej\My project\Library\Artifacts\d0\d0c0652e8e4f432f50ec5f98e0475bc2
-    projectPath: Library\Artifacts\d0\d0c0652e8e4f432f50ec5f98e0475bc2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\f1\f189e62c363f1842b2e66bb05d9e0715
-    fullPath: C:\Users\matej\My project\Library\Artifacts\f1\f189e62c363f1842b2e66bb05d9e0715
-    projectPath: Library\Artifacts\f1\f189e62c363f1842b2e66bb05d9e0715
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Library\Artifacts\fb\fb329aeefc6533bcd51e01d3e9f02fe7
     fullPath: C:\Users\matej\My project\Library\Artifacts\fb\fb329aeefc6533bcd51e01d3e9f02fe7
     projectPath: Library\Artifacts\fb\fb329aeefc6533bcd51e01d3e9f02fe7
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Bee\1900b0aP.dag_fsmtime
+    fullPath: C:\Users\matej\My project\Library\Bee\1900b0aP.dag_fsmtime
+    projectPath: Library\Bee\1900b0aP.dag_fsmtime
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll
     fullPath: C:\Users\matej\My project\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll
     projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll
@@ -112,9 +115,27 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.ref.dll
-    fullPath: C:\Users\matej\My project\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.ref.dll
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.ref.dll
+  - path: Library\Bee\artifacts\1900b0aP.dag\Assembly-CSharp.dll
+    fullPath: C:\Users\matej\My project\Library\Bee\artifacts\1900b0aP.dag\Assembly-CSharp.dll
+    projectPath: Library\Bee\artifacts\1900b0aP.dag\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aP.dag\Assembly-CSharp.pdb
+    fullPath: C:\Users\matej\My project\Library\Bee\artifacts\1900b0aP.dag\Assembly-CSharp.pdb
+    projectPath: Library\Bee\artifacts\1900b0aP.dag\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aP.dag\Assembly-CSharp.ref.dll
+    fullPath: C:\Users\matej\My project\Library\Bee\artifacts\1900b0aP.dag\Assembly-CSharp.ref.dll
+    projectPath: Library\Bee\artifacts\1900b0aP.dag\Assembly-CSharp.ref.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\WinPlayerBuildProgram\Data\app.info
+    fullPath: C:\Users\matej\My project\Library\Bee\artifacts\WinPlayerBuildProgram\Data\app.info
+    projectPath: Library\Bee\artifacts\WinPlayerBuildProgram\Data\app.info
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -124,12 +145,150 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\Bee\backend_profiler1.traceevents
+    fullPath: C:\Users\matej\My project\Library\Bee\backend_profiler1.traceevents
+    projectPath: Library\Bee\backend_profiler1.traceevents
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\buildprogram0.traceevents
+    fullPath: C:\Users\matej\My project\Library\Bee\buildprogram0.traceevents
+    projectPath: Library\Bee\buildprogram0.traceevents
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\buildreport.json
+    fullPath: C:\Users\matej\My project\Library\Bee\buildreport.json
+    projectPath: Library\Bee\buildreport.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\buildreport.json_0.traceevents
+    fullPath: C:\Users\matej\My project\Library\Bee\buildreport.json_0.traceevents
+    projectPath: Library\Bee\buildreport.json_0.traceevents
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\buildreport.json_1.traceevents
+    fullPath: C:\Users\matej\My project\Library\Bee\buildreport.json_1.traceevents
+    projectPath: Library\Bee\buildreport.json_1.traceevents
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\Bee\fullprofile.json
     fullPath: C:\Users\matej\My project\Library\Bee\fullprofile.json
     projectPath: Library\Bee\fullprofile.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\Bee\Player527a5751.dag
+    fullPath: C:\Users\matej\My project\Library\Bee\Player527a5751.dag
+    projectPath: Library\Bee\Player527a5751.dag
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\Player527a5751.dag.json
+    fullPath: C:\Users\matej\My project\Library\Bee\Player527a5751.dag.json
+    projectPath: Library\Bee\Player527a5751.dag.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\Player527a5751.dag.outputdata
+    fullPath: C:\Users\matej\My project\Library\Bee\Player527a5751.dag.outputdata
+    projectPath: Library\Bee\Player527a5751.dag.outputdata
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\Player527a5751.dag_derived
+    fullPath: C:\Users\matej\My project\Library\Bee\Player527a5751.dag_derived
+    projectPath: Library\Bee\Player527a5751.dag_derived
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\Player527a5751.dag_fsmtime
+    fullPath: C:\Users\matej\My project\Library\Bee\Player527a5751.dag_fsmtime
+    projectPath: Library\Bee\Player527a5751.dag_fsmtime
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\Player527a5751-inputdata.json
+    fullPath: C:\Users\matej\My project\Library\Bee\Player527a5751-inputdata.json
+    projectPath: Library\Bee\Player527a5751-inputdata.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\Playere8529edd.dag
+    fullPath: C:\Users\matej\My project\Library\Bee\Playere8529edd.dag
+    projectPath: Library\Bee\Playere8529edd.dag
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\Playere8529edd.dag.json
+    fullPath: C:\Users\matej\My project\Library\Bee\Playere8529edd.dag.json
+    projectPath: Library\Bee\Playere8529edd.dag.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\Playere8529edd.dag.outputdata
+    fullPath: C:\Users\matej\My project\Library\Bee\Playere8529edd.dag.outputdata
+    projectPath: Library\Bee\Playere8529edd.dag.outputdata
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\Playere8529edd.dag_derived
+    fullPath: C:\Users\matej\My project\Library\Bee\Playere8529edd.dag_derived
+    projectPath: Library\Bee\Playere8529edd.dag_derived
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\Playere8529edd.dag_fsmtime
+    fullPath: C:\Users\matej\My project\Library\Bee\Playere8529edd.dag_fsmtime
+    projectPath: Library\Bee\Playere8529edd.dag_fsmtime
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\Playere8529edd-inputdata.json
+    fullPath: C:\Users\matej\My project\Library\Bee\Playere8529edd-inputdata.json
+    projectPath: Library\Bee\Playere8529edd-inputdata.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\Playerffa9a13f.dag
+    fullPath: C:\Users\matej\My project\Library\Bee\Playerffa9a13f.dag
+    projectPath: Library\Bee\Playerffa9a13f.dag
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\Playerffa9a13f.dag.json
+    fullPath: C:\Users\matej\My project\Library\Bee\Playerffa9a13f.dag.json
+    projectPath: Library\Bee\Playerffa9a13f.dag.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\Playerffa9a13f.dag.outputdata
+    fullPath: C:\Users\matej\My project\Library\Bee\Playerffa9a13f.dag.outputdata
+    projectPath: Library\Bee\Playerffa9a13f.dag.outputdata
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\Playerffa9a13f.dag_derived
+    fullPath: C:\Users\matej\My project\Library\Bee\Playerffa9a13f.dag_derived
+    projectPath: Library\Bee\Playerffa9a13f.dag_derived
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\Playerffa9a13f.dag_fsmtime
+    fullPath: C:\Users\matej\My project\Library\Bee\Playerffa9a13f.dag_fsmtime
+    projectPath: Library\Bee\Playerffa9a13f.dag_fsmtime
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\Playerffa9a13f-inputdata.json
+    fullPath: C:\Users\matej\My project\Library\Bee\Playerffa9a13f-inputdata.json
+    projectPath: Library\Bee\Playerffa9a13f-inputdata.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\Bee\tundra.digestcache
     fullPath: C:\Users\matej\My project\Library\Bee\tundra.digestcache
     projectPath: Library\Bee\tundra.digestcache
@@ -154,12 +313,30 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\BuildPlayerData\Editor\TypeDb-All.json
+    fullPath: C:\Users\matej\My project\Library\BuildPlayerData\Editor\TypeDb-All.json
+    projectPath: Library\BuildPlayerData\Editor\TypeDb-All.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\BuildPlayerData\Player\TypeDb-All.json
+    fullPath: C:\Users\matej\My project\Library\BuildPlayerData\Player\TypeDb-All.json
+    projectPath: Library\BuildPlayerData\Player\TypeDb-All.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\EditorInstance.json
     fullPath: C:\Users\matej\My project\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Library\EditorUserBuildSettings.asset
+    fullPath: C:\Users\matej\My project\Library\EditorUserBuildSettings.asset
+    projectPath: Library\EditorUserBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\branches.yaml
     fullPath: C:\Users\matej\My project\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
@@ -187,6 +364,78 @@ MonoBehaviour:
   - path: Library\gfu\cache\repoinfo.yaml
     fullPath: C:\Users\matej\My project\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\LastBuild.buildreport
+    fullPath: C:\Users\matej\My project\Library\LastBuild.buildreport
+    projectPath: Library\LastBuild.buildreport
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\globalgamemanagers
+    fullPath: C:\Users\matej\My project\Library\PlayerDataCache\Win64\Data\globalgamemanagers
+    projectPath: Library\PlayerDataCache\Win64\Data\globalgamemanagers
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets
+    fullPath: C:\Users\matej\My project\Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets
+    projectPath: Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\level0
+    fullPath: C:\Users\matej\My project\Library\PlayerDataCache\Win64\Data\level0
+    projectPath: Library\PlayerDataCache\Win64\Data\level0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\level1
+    fullPath: C:\Users\matej\My project\Library\PlayerDataCache\Win64\Data\level1
+    projectPath: Library\PlayerDataCache\Win64\Data\level1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\resources.assets
+    fullPath: C:\Users\matej\My project\Library\PlayerDataCache\Win64\Data\resources.assets
+    projectPath: Library\PlayerDataCache\Win64\Data\resources.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\sharedassets0.assets
+    fullPath: C:\Users\matej\My project\Library\PlayerDataCache\Win64\Data\sharedassets0.assets
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets0.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\sharedassets0.assets.resS
+    fullPath: C:\Users\matej\My project\Library\PlayerDataCache\Win64\Data\sharedassets0.assets.resS
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets0.assets.resS
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\sharedassets1.assets
+    fullPath: C:\Users\matej\My project\Library\PlayerDataCache\Win64\Data\sharedassets1.assets
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets1.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\sharedassets1.resource
+    fullPath: C:\Users\matej\My project\Library\PlayerDataCache\Win64\Data\sharedassets1.resource
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets1.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win64\DataBuildDirtyInfo.json
+    fullPath: C:\Users\matej\My project\Library\PlayerDataCache\Win64\DataBuildDirtyInfo.json
+    projectPath: Library\PlayerDataCache\Win64\DataBuildDirtyInfo.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\ScriptsOnlyCache.yaml
+    fullPath: C:\Users\matej\My project\Library\PlayerDataCache\Win64\ScriptsOnlyCache.yaml
+    projectPath: Library\PlayerDataCache\Win64\ScriptsOnlyCache.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -226,39 +475,1521 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
-    fullPath: C:\Users\matej\My project\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
-    projectPath: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Logs\AssetImportWorker0.log
     fullPath: C:\Users\matej\My project\Logs\AssetImportWorker0.log
     projectPath: Logs\AssetImportWorker0.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Logs\AssetImportWorker1.log
     fullPath: C:\Users\matej\My project\Logs\AssetImportWorker1.log
     projectPath: Logs\AssetImportWorker1.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Logs\shadercompiler-AssetImportWorker0.log
     fullPath: C:\Users\matej\My project\Logs\shadercompiler-AssetImportWorker0.log
     projectPath: Logs\shadercompiler-AssetImportWorker0.log
     originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
+    fullPath: C:\Users\matej\My project\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
+    projectPath: MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
+    fullPath: C:\Users\matej\My project\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
+    projectPath: MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
+    fullPath: C:\Users\matej\My project\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
+    projectPath: MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+    fullPath: C:\Users\matej\My project\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+    projectPath: MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MonoBleedingEdge\etc\mono\2.0\machine.config
+    fullPath: C:\Users\matej\My project\MonoBleedingEdge\etc\mono\2.0\machine.config
+    projectPath: MonoBleedingEdge\etc\mono\2.0\machine.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MonoBleedingEdge\etc\mono\2.0\settings.map
+    fullPath: C:\Users\matej\My project\MonoBleedingEdge\etc\mono\2.0\settings.map
+    projectPath: MonoBleedingEdge\etc\mono\2.0\settings.map
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MonoBleedingEdge\etc\mono\2.0\web.config
+    fullPath: C:\Users\matej\My project\MonoBleedingEdge\etc\mono\2.0\web.config
+    projectPath: MonoBleedingEdge\etc\mono\2.0\web.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
+    fullPath: C:\Users\matej\My project\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
+    projectPath: MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
+    fullPath: C:\Users\matej\My project\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
+    projectPath: MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MonoBleedingEdge\etc\mono\4.0\machine.config
+    fullPath: C:\Users\matej\My project\MonoBleedingEdge\etc\mono\4.0\machine.config
+    projectPath: MonoBleedingEdge\etc\mono\4.0\machine.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MonoBleedingEdge\etc\mono\4.0\settings.map
+    fullPath: C:\Users\matej\My project\MonoBleedingEdge\etc\mono\4.0\settings.map
+    projectPath: MonoBleedingEdge\etc\mono\4.0\settings.map
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MonoBleedingEdge\etc\mono\4.0\web.config
+    fullPath: C:\Users\matej\My project\MonoBleedingEdge\etc\mono\4.0\web.config
+    projectPath: MonoBleedingEdge\etc\mono\4.0\web.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
+    fullPath: C:\Users\matej\My project\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
+    projectPath: MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
+    fullPath: C:\Users\matej\My project\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
+    projectPath: MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MonoBleedingEdge\etc\mono\4.5\machine.config
+    fullPath: C:\Users\matej\My project\MonoBleedingEdge\etc\mono\4.5\machine.config
+    projectPath: MonoBleedingEdge\etc\mono\4.5\machine.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MonoBleedingEdge\etc\mono\4.5\settings.map
+    fullPath: C:\Users\matej\My project\MonoBleedingEdge\etc\mono\4.5\settings.map
+    projectPath: MonoBleedingEdge\etc\mono\4.5\settings.map
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MonoBleedingEdge\etc\mono\4.5\web.config
+    fullPath: C:\Users\matej\My project\MonoBleedingEdge\etc\mono\4.5\web.config
+    projectPath: MonoBleedingEdge\etc\mono\4.5\web.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MonoBleedingEdge\etc\mono\browscap.ini
+    fullPath: C:\Users\matej\My project\MonoBleedingEdge\etc\mono\browscap.ini
+    projectPath: MonoBleedingEdge\etc\mono\browscap.ini
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MonoBleedingEdge\etc\mono\config
+    fullPath: C:\Users\matej\My project\MonoBleedingEdge\etc\mono\config
+    projectPath: MonoBleedingEdge\etc\mono\config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MonoBleedingEdge\etc\mono\mconfig\config.xml
+    fullPath: C:\Users\matej\My project\MonoBleedingEdge\etc\mono\mconfig\config.xml
+    projectPath: MonoBleedingEdge\etc\mono\mconfig\config.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project.exe
+    fullPath: C:\Users\matej\My project\My project.exe
+    projectPath: My project.exe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\app.info
+    fullPath: C:\Users\matej\My project\My project_Data\app.info
+    projectPath: My project_Data\app.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\boot.config
+    fullPath: C:\Users\matej\My project\My project_Data\boot.config
+    projectPath: My project_Data\boot.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\globalgamemanagers
+    fullPath: C:\Users\matej\My project\My project_Data\globalgamemanagers
+    projectPath: My project_Data\globalgamemanagers
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\globalgamemanagers.assets
+    fullPath: C:\Users\matej\My project\My project_Data\globalgamemanagers.assets
+    projectPath: My project_Data\globalgamemanagers.assets
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\level0
+    fullPath: C:\Users\matej\My project\My project_Data\level0
+    projectPath: My project_Data\level0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\level0.resS
+    fullPath: C:\Users\matej\My project\My project_Data\level0.resS
+    projectPath: My project_Data\level0.resS
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\level1
+    fullPath: C:\Users\matej\My project\My project_Data\level1
+    projectPath: My project_Data\level1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\level1.resS
+    fullPath: C:\Users\matej\My project\My project_Data\level1.resS
+    projectPath: My project_Data\level1.resS
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\Assembly-CSharp.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\Assembly-CSharp.dll
+    projectPath: My project_Data\Managed\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\Mono.Security.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\Mono.Security.dll
+    projectPath: My project_Data\Managed\Mono.Security.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\mscorlib.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\mscorlib.dll
+    projectPath: My project_Data\Managed\mscorlib.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\netstandard.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\netstandard.dll
+    projectPath: My project_Data\Managed\netstandard.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\System.ComponentModel.Composition.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\System.ComponentModel.Composition.dll
+    projectPath: My project_Data\Managed\System.ComponentModel.Composition.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\System.Configuration.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\System.Configuration.dll
+    projectPath: My project_Data\Managed\System.Configuration.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\System.Core.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\System.Core.dll
+    projectPath: My project_Data\Managed\System.Core.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\System.Data.DataSetExtensions.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\System.Data.DataSetExtensions.dll
+    projectPath: My project_Data\Managed\System.Data.DataSetExtensions.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\System.Data.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\System.Data.dll
+    projectPath: My project_Data\Managed\System.Data.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\System.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\System.dll
+    projectPath: My project_Data\Managed\System.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\System.Drawing.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\System.Drawing.dll
+    projectPath: My project_Data\Managed\System.Drawing.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\System.EnterpriseServices.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\System.EnterpriseServices.dll
+    projectPath: My project_Data\Managed\System.EnterpriseServices.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\System.IO.Compression.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\System.IO.Compression.dll
+    projectPath: My project_Data\Managed\System.IO.Compression.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\System.IO.Compression.FileSystem.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\System.IO.Compression.FileSystem.dll
+    projectPath: My project_Data\Managed\System.IO.Compression.FileSystem.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\System.Net.Http.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\System.Net.Http.dll
+    projectPath: My project_Data\Managed\System.Net.Http.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\System.Numerics.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\System.Numerics.dll
+    projectPath: My project_Data\Managed\System.Numerics.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\System.Runtime.Serialization.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\System.Runtime.Serialization.dll
+    projectPath: My project_Data\Managed\System.Runtime.Serialization.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\System.Security.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\System.Security.dll
+    projectPath: My project_Data\Managed\System.Security.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\System.ServiceModel.Internals.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\System.ServiceModel.Internals.dll
+    projectPath: My project_Data\Managed\System.ServiceModel.Internals.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\System.Transactions.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\System.Transactions.dll
+    projectPath: My project_Data\Managed\System.Transactions.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\System.Xml.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\System.Xml.dll
+    projectPath: My project_Data\Managed\System.Xml.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\System.Xml.Linq.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\System.Xml.Linq.dll
+    projectPath: My project_Data\Managed\System.Xml.Linq.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\Unity.TextMeshPro.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\Unity.TextMeshPro.dll
+    projectPath: My project_Data\Managed\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\Unity.Timeline.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\Unity.Timeline.dll
+    projectPath: My project_Data\Managed\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\Unity.VisualScripting.Antlr3.Runtime.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\Unity.VisualScripting.Antlr3.Runtime.dll
+    projectPath: My project_Data\Managed\Unity.VisualScripting.Antlr3.Runtime.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\Unity.VisualScripting.Core.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\Unity.VisualScripting.Core.dll
+    projectPath: My project_Data\Managed\Unity.VisualScripting.Core.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\Unity.VisualScripting.Flow.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\Unity.VisualScripting.Flow.dll
+    projectPath: My project_Data\Managed\Unity.VisualScripting.Flow.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\Unity.VisualScripting.State.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\Unity.VisualScripting.State.dll
+    projectPath: My project_Data\Managed\Unity.VisualScripting.State.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.AccessibilityModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.AccessibilityModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.AccessibilityModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.AIModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.AIModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.AIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.AndroidJNIModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.AndroidJNIModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.AndroidJNIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.AnimationModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.AnimationModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.AnimationModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.ARModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.ARModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.ARModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.AssetBundleModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.AssetBundleModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.AssetBundleModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.AudioModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.AudioModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.AudioModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.ClothModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.ClothModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.ClothModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.ClusterInputModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.ClusterInputModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.ClusterInputModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.ClusterRendererModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.ClusterRendererModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.ClusterRendererModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.CoreModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.CoreModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.CoreModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.CrashReportingModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.CrashReportingModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.CrashReportingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.DirectorModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.DirectorModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.DirectorModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.dll
+    projectPath: My project_Data\Managed\UnityEngine.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.DSPGraphModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.DSPGraphModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.DSPGraphModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.GameCenterModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.GameCenterModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.GameCenterModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.GIModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.GIModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.GIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.GridModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.GridModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.GridModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.HotReloadModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.HotReloadModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.HotReloadModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.ImageConversionModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.ImageConversionModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.ImageConversionModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.IMGUIModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.IMGUIModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.IMGUIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.InputLegacyModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.InputLegacyModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.InputLegacyModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.InputModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.InputModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.InputModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.JSONSerializeModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.JSONSerializeModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.JSONSerializeModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.LocalizationModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.LocalizationModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.LocalizationModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.NVIDIAModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.NVIDIAModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.NVIDIAModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.ParticleSystemModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.ParticleSystemModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.ParticleSystemModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.Physics2DModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.Physics2DModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.Physics2DModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.PhysicsModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.PhysicsModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.PhysicsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.ProfilerModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.ProfilerModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.ProfilerModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.SharedInternalsModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.SharedInternalsModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.SharedInternalsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.SpriteMaskModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.SpriteMaskModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.SpriteMaskModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.SpriteShapeModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.SpriteShapeModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.SpriteShapeModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.StreamingModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.StreamingModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.StreamingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.SubstanceModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.SubstanceModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.SubstanceModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.SubsystemsModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.SubsystemsModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.SubsystemsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.TerrainModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.TerrainModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.TerrainModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.TextCoreFontEngineModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.TextCoreFontEngineModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.TextCoreFontEngineModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.TextCoreTextEngineModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.TextCoreTextEngineModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.TextCoreTextEngineModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.TextRenderingModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.TextRenderingModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.TextRenderingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.TilemapModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.TilemapModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.TilemapModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.TLSModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.TLSModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.TLSModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.UI.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.UI.dll
+    projectPath: My project_Data\Managed\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.UIElementsModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.UIElementsModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.UIElementsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.UIElementsNativeModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.UIElementsNativeModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.UIElementsNativeModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.UIModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.UIModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.UIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.UmbraModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.UmbraModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.UmbraModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.UNETModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.UNETModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.UNETModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.UnityAnalyticsCommonModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.UnityAnalyticsCommonModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.UnityAnalyticsCommonModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.UnityConnectModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.UnityConnectModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.UnityConnectModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.UnityCurlModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.UnityCurlModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.UnityCurlModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.VehiclesModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.VehiclesModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.VehiclesModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.VFXModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.VFXModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.VFXModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.VideoModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.VideoModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.VideoModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.VirtualTexturingModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.VirtualTexturingModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.VirtualTexturingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.VRModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.VRModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.VRModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.WindModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.WindModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.WindModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Managed\UnityEngine.XRModule.dll
+    fullPath: C:\Users\matej\My project\My project_Data\Managed\UnityEngine.XRModule.dll
+    projectPath: My project_Data\Managed\UnityEngine.XRModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\resources.assets
+    fullPath: C:\Users\matej\My project\My project_Data\resources.assets
+    projectPath: My project_Data\resources.assets
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\resources.assets.resS
+    fullPath: C:\Users\matej\My project\My project_Data\resources.assets.resS
+    projectPath: My project_Data\resources.assets.resS
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Resources\unity default resources
+    fullPath: C:\Users\matej\My project\My project_Data\Resources\unity default resources
+    projectPath: My project_Data\Resources\unity default resources
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\Resources\unity_builtin_extra
+    fullPath: C:\Users\matej\My project\My project_Data\Resources\unity_builtin_extra
+    projectPath: My project_Data\Resources\unity_builtin_extra
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\RuntimeInitializeOnLoads.json
+    fullPath: C:\Users\matej\My project\My project_Data\RuntimeInitializeOnLoads.json
+    projectPath: My project_Data\RuntimeInitializeOnLoads.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\ScriptingAssemblies.json
+    fullPath: C:\Users\matej\My project\My project_Data\ScriptingAssemblies.json
+    projectPath: My project_Data\ScriptingAssemblies.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\sharedassets0.assets
+    fullPath: C:\Users\matej\My project\My project_Data\sharedassets0.assets
+    projectPath: My project_Data\sharedassets0.assets
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\sharedassets0.assets.resS
+    fullPath: C:\Users\matej\My project\My project_Data\sharedassets0.assets.resS
+    projectPath: My project_Data\sharedassets0.assets.resS
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\sharedassets1.assets
+    fullPath: C:\Users\matej\My project\My project_Data\sharedassets1.assets
+    projectPath: My project_Data\sharedassets1.assets
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: My project_Data\sharedassets1.resource
+    fullPath: C:\Users\matej\My project\My project_Data\sharedassets1.resource
+    projectPath: My project_Data\sharedassets1.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\ProjectSettings.asset
+    fullPath: C:\Users\matej\My project\ProjectSettings\ProjectSettings.asset
+    projectPath: ProjectSettings\ProjectSettings.asset
+    originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
+    workTreeStatus: 3
   - path: Temp\__Backupscenes\0.backup
     fullPath: C:\Users\matej\My project\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\FSTimeGet-cdb33fddb53e9d3428d028c8e68f4296
-    fullPath: C:\Users\matej\My project\Temp\FSTimeGet-cdb33fddb53e9d3428d028c8e68f4296
-    projectPath: Temp\FSTimeGet-cdb33fddb53e9d3428d028c8e68f4296
+  - path: Temp\FSTimeGet-4ad1d11972c8f4e44b5c9f02daa03103
+    fullPath: C:\Users\matej\My project\Temp\FSTimeGet-4ad1d11972c8f4e44b5c9f02daa03103
+    projectPath: Temp\FSTimeGet-4ad1d11972c8f4e44b5c9f02daa03103
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\FSTimeGet-c0ed18b0dbe049f4e92dab8251409967
+    fullPath: C:\Users\matej\My project\Temp\FSTimeGet-c0ed18b0dbe049f4e92dab8251409967
+    projectPath: Temp\FSTimeGet-c0ed18b0dbe049f4e92dab8251409967
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\FSTimeGet-d27c5ce6eb3c95d468dd0faf562ac0bd
+    fullPath: C:\Users\matej\My project\Temp\FSTimeGet-d27c5ce6eb3c95d468dd0faf562ac0bd
+    projectPath: Temp\FSTimeGet-d27c5ce6eb3c95d468dd0faf562ac0bd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\ManagedSymbols\Assembly-CSharp.pdb
+    fullPath: C:\Users\matej\My project\Temp\ManagedSymbols\Assembly-CSharp.pdb
+    projectPath: Temp\ManagedSymbols\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\ManagedSymbols\Unity.TextMeshPro.pdb
+    fullPath: C:\Users\matej\My project\Temp\ManagedSymbols\Unity.TextMeshPro.pdb
+    projectPath: Temp\ManagedSymbols\Unity.TextMeshPro.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\ManagedSymbols\Unity.Timeline.pdb
+    fullPath: C:\Users\matej\My project\Temp\ManagedSymbols\Unity.Timeline.pdb
+    projectPath: Temp\ManagedSymbols\Unity.Timeline.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\ManagedSymbols\Unity.VisualScripting.Core.pdb
+    fullPath: C:\Users\matej\My project\Temp\ManagedSymbols\Unity.VisualScripting.Core.pdb
+    projectPath: Temp\ManagedSymbols\Unity.VisualScripting.Core.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\ManagedSymbols\Unity.VisualScripting.Flow.pdb
+    fullPath: C:\Users\matej\My project\Temp\ManagedSymbols\Unity.VisualScripting.Flow.pdb
+    projectPath: Temp\ManagedSymbols\Unity.VisualScripting.Flow.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\ManagedSymbols\Unity.VisualScripting.State.pdb
+    fullPath: C:\Users\matej\My project\Temp\ManagedSymbols\Unity.VisualScripting.State.pdb
+    projectPath: Temp\ManagedSymbols\Unity.VisualScripting.State.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\ManagedSymbols\UnityEngine.UI.pdb
+    fullPath: C:\Users\matej\My project\Temp\ManagedSymbols\UnityEngine.UI.pdb
+    projectPath: Temp\ManagedSymbols\UnityEngine.UI.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\PlayerBuildAnalyticsEvents.json
+    fullPath: C:\Users\matej\My project\Temp\PlayerBuildAnalyticsEvents.json
+    projectPath: Temp\PlayerBuildAnalyticsEvents.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
+    projectPath: Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\Mono.Security.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\Mono.Security.dll
+    projectPath: Temp\StagingArea\Data\Managed\Mono.Security.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\mscorlib.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\mscorlib.dll
+    projectPath: Temp\StagingArea\Data\Managed\mscorlib.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\netstandard.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\netstandard.dll
+    projectPath: Temp\StagingArea\Data\Managed\netstandard.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\System.ComponentModel.Composition.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\System.ComponentModel.Composition.dll
+    projectPath: Temp\StagingArea\Data\Managed\System.ComponentModel.Composition.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\System.Configuration.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\System.Configuration.dll
+    projectPath: Temp\StagingArea\Data\Managed\System.Configuration.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\System.Core.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\System.Core.dll
+    projectPath: Temp\StagingArea\Data\Managed\System.Core.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\System.Data.DataSetExtensions.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\System.Data.DataSetExtensions.dll
+    projectPath: Temp\StagingArea\Data\Managed\System.Data.DataSetExtensions.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\System.Data.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\System.Data.dll
+    projectPath: Temp\StagingArea\Data\Managed\System.Data.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\System.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\System.dll
+    projectPath: Temp\StagingArea\Data\Managed\System.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\System.Drawing.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\System.Drawing.dll
+    projectPath: Temp\StagingArea\Data\Managed\System.Drawing.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\System.EnterpriseServices.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\System.EnterpriseServices.dll
+    projectPath: Temp\StagingArea\Data\Managed\System.EnterpriseServices.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\System.IO.Compression.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\System.IO.Compression.dll
+    projectPath: Temp\StagingArea\Data\Managed\System.IO.Compression.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\System.IO.Compression.FileSystem.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\System.IO.Compression.FileSystem.dll
+    projectPath: Temp\StagingArea\Data\Managed\System.IO.Compression.FileSystem.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\System.Net.Http.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\System.Net.Http.dll
+    projectPath: Temp\StagingArea\Data\Managed\System.Net.Http.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\System.Numerics.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\System.Numerics.dll
+    projectPath: Temp\StagingArea\Data\Managed\System.Numerics.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\System.Runtime.Serialization.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\System.Runtime.Serialization.dll
+    projectPath: Temp\StagingArea\Data\Managed\System.Runtime.Serialization.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\System.Security.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\System.Security.dll
+    projectPath: Temp\StagingArea\Data\Managed\System.Security.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\System.ServiceModel.Internals.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\System.ServiceModel.Internals.dll
+    projectPath: Temp\StagingArea\Data\Managed\System.ServiceModel.Internals.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\System.Transactions.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\System.Transactions.dll
+    projectPath: Temp\StagingArea\Data\Managed\System.Transactions.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\System.Xml.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\System.Xml.dll
+    projectPath: Temp\StagingArea\Data\Managed\System.Xml.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\System.Xml.Linq.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\System.Xml.Linq.dll
+    projectPath: Temp\StagingArea\Data\Managed\System.Xml.Linq.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\Unity.TextMeshPro.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\Unity.TextMeshPro.dll
+    projectPath: Temp\StagingArea\Data\Managed\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\Unity.Timeline.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\Unity.Timeline.dll
+    projectPath: Temp\StagingArea\Data\Managed\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\Unity.VisualScripting.Antlr3.Runtime.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\Unity.VisualScripting.Antlr3.Runtime.dll
+    projectPath: Temp\StagingArea\Data\Managed\Unity.VisualScripting.Antlr3.Runtime.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\Unity.VisualScripting.Core.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\Unity.VisualScripting.Core.dll
+    projectPath: Temp\StagingArea\Data\Managed\Unity.VisualScripting.Core.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\Unity.VisualScripting.Flow.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\Unity.VisualScripting.Flow.dll
+    projectPath: Temp\StagingArea\Data\Managed\Unity.VisualScripting.Flow.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\Unity.VisualScripting.State.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\Unity.VisualScripting.State.dll
+    projectPath: Temp\StagingArea\Data\Managed\Unity.VisualScripting.State.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.AccessibilityModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.AccessibilityModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.AccessibilityModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.AIModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.AIModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.AIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.AndroidJNIModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.AndroidJNIModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.AndroidJNIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.AnimationModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.AnimationModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.AnimationModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.ARModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.ARModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.ARModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.AssetBundleModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.AssetBundleModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.AssetBundleModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.AudioModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.AudioModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.AudioModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.ClothModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.ClothModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.ClothModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.ClusterInputModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.ClusterInputModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.ClusterInputModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.ClusterRendererModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.ClusterRendererModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.ClusterRendererModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.CoreModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.CoreModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.CoreModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.CrashReportingModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.CrashReportingModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.CrashReportingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.DirectorModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.DirectorModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.DirectorModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.DSPGraphModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.DSPGraphModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.DSPGraphModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.GameCenterModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.GameCenterModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.GameCenterModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.GIModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.GIModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.GIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.GridModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.GridModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.GridModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.HotReloadModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.HotReloadModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.HotReloadModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.ImageConversionModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.ImageConversionModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.ImageConversionModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.IMGUIModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.IMGUIModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.IMGUIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.InputLegacyModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.InputLegacyModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.InputLegacyModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.InputModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.InputModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.InputModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.JSONSerializeModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.JSONSerializeModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.JSONSerializeModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.LocalizationModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.LocalizationModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.LocalizationModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.NVIDIAModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.NVIDIAModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.NVIDIAModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.ParticleSystemModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.ParticleSystemModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.ParticleSystemModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.Physics2DModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.Physics2DModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.Physics2DModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.PhysicsModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.PhysicsModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.PhysicsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.ProfilerModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.ProfilerModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.ProfilerModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.SharedInternalsModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.SharedInternalsModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.SharedInternalsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.SpriteMaskModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.SpriteMaskModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.SpriteMaskModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.SpriteShapeModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.SpriteShapeModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.SpriteShapeModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.StreamingModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.StreamingModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.StreamingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.SubstanceModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.SubstanceModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.SubstanceModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.SubsystemsModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.SubsystemsModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.SubsystemsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.TerrainModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.TerrainModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.TerrainModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.TextCoreFontEngineModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.TextCoreFontEngineModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.TextCoreFontEngineModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.TextCoreTextEngineModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.TextCoreTextEngineModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.TextCoreTextEngineModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.TextRenderingModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.TextRenderingModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.TextRenderingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.TilemapModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.TilemapModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.TilemapModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.TLSModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.TLSModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.TLSModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.UI.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.UI.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.UIElementsModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.UIElementsModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.UIElementsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.UIElementsNativeModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.UIElementsNativeModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.UIElementsNativeModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.UIModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.UIModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.UIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.UmbraModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.UmbraModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.UmbraModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.UNETModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.UNETModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.UNETModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.UnityAnalyticsCommonModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.UnityAnalyticsCommonModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.UnityAnalyticsCommonModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.UnityConnectModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.UnityConnectModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.UnityConnectModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.UnityCurlModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.UnityCurlModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.UnityCurlModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.VehiclesModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.VehiclesModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.VehiclesModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.VFXModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.VFXModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.VFXModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.VideoModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.VideoModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.VideoModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.VirtualTexturingModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.VirtualTexturingModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.VirtualTexturingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.VRModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.VRModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.VRModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.WindModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.WindModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.WindModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\Data\Managed\UnityEngine.XRModule.dll
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\Data\Managed\UnityEngine.XRModule.dll
+    projectPath: Temp\StagingArea\Data\Managed\UnityEngine.XRModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\WindowsPlayer.exe
+    fullPath: C:\Users\matej\My project\Temp\StagingArea\WindowsPlayer.exe
+    projectPath: Temp\StagingArea\WindowsPlayer.exe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\tempFile.res
+    fullPath: C:\Users\matej\My project\Temp\tempFile.res
+    projectPath: Temp\tempFile.res
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\tempFile.resG
+    fullPath: C:\Users\matej\My project\Temp\tempFile.resG
+    projectPath: Temp\tempFile.resG
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\tempFile.resS
+    fullPath: C:\Users\matej\My project\Temp\tempFile.resS
+    projectPath: Temp\tempFile.resS
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -271,6 +2002,18 @@ MonoBehaviour:
   - path: Temp\workerlic
     fullPath: C:\Users\matej\My project\Temp\workerlic
     projectPath: Temp\workerlic
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityCrashHandler64.exe
+    fullPath: C:\Users\matej\My project\UnityCrashHandler64.exe
+    projectPath: UnityCrashHandler64.exe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityPlayer.dll
+    fullPath: C:\Users\matej\My project\UnityPlayer.dll
+    projectPath: UnityPlayer.dll
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
